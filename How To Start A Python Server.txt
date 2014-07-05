@@ -6,7 +6,7 @@ if you're on Python 3:
 
 if you're on python 2:
 
-"python -m http.server"
+"python -m SimpleHTTPServer"
 
 (If in doubt, try both and see which one gives you an error :P)
 
